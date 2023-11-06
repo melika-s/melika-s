@@ -15,7 +15,7 @@ I've worked with the following languages and frameworks:
 * Java
 * Kotlin -> in my learning list
 * TypeScript
-  * Nestjs -> in my learning list
+  * Nestjs -> learning...
 
 
 > If you are willing to hire and want to know more about me, you are always welcome to send me an email (mealikasefatzadeh@gmail.com) 😉
