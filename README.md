@@ -2,7 +2,7 @@
 
 It's Melika. I'm a master's student in software engineering. I enjoy learning, and am a fast learner.
 
-I worked as a backend developer (Nodejs and express) for almost 4 years at a knowledge enterprise called Imen Pardazesh Arses (IPA). Right now, I'm focusing on improving myself and finding a job which would help me grow as much as possible.
+I worked as a backend developer (Nodejs and express) for almost 4 years at a knowledge enterprise called Imen Pardazesh Arses (IPA). Right now, I'm focusing on improving myself and working at IRISA, an international systems and automation company, as a PL/SQL developer.
 
 ## Skills ⚡
 
@@ -16,6 +16,8 @@ I've worked with the following languages and frameworks:
 * Kotlin -> in my learning list
 * TypeScript
   * Nestjs -> learning...
+* PL/SQL
+*Oracle forms
 
 
 > If you are willing to hire and want to know more about me, you are always welcome to send me an email (mealikasefatzadeh@gmail.com) 😉
