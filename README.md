@@ -17,6 +17,7 @@ I've worked with the following languages and frameworks:
 * TypeScript
   * Nestjs -> learning...
 * PL/SQL
+
 *Oracle forms
 
 
